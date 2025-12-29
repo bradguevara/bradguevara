@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I am bilingual (Spanish/English)**
 
+- 🧠 LeetCode I practice here: https://leetcode.com/u/bguevarapinos/ 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/bradguevara" target="blank">
