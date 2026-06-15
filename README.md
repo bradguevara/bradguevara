@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0414,50:5B2A6E,100:C026D3&height=160&section=header&text=Brad%20Guevara&fontSize=42&fontColor=E8E0F5&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Distributed%20Systems%20%26%20Backend&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+
 # Brad Guevara
 
 **Software Engineer · CS Grad (May 2026) · Distributed Systems & Backend**
@@ -19,13 +21,6 @@ I build distributed systems and data pipelines — routing tables, failure detec
 CS graduate from the University at Buffalo with a <strong>Certificate in Data Intensive Computing</strong>, focused on large-scale data processing with Apache Spark, Hadoop, and Google Cloud Dataproc.<br>
 I also practice DSA regularly on LeetCode, using NeetCode's roadmap to guide my study.
 </p>
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bradguevara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0414&title_color=C026D3&icon_color=5EEAD4&text_color=E8E0F5)](https://github.com/bradguevara)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bradguevara&theme=tokyonight&hide_border=true&background=0A0414&ring=C026D3&fire=C026D3&currStreakLabel=5EEAD4)](https://github.com/bradguevara)
-
-</div>
 
 ---
 
@@ -126,3 +121,5 @@ Coursework: Distributed Systems, System Programming, Data Models & Query Languag
 
 **Certificate in Data Intensive Computing** — University at Buffalo (May 2026)
 Focus on large-scale data processing and distributed storage — Apache Spark, Hadoop, PySpark, MLlib, and Google Cloud Dataproc for building and tuning data pipelines over large datasets.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C026D3,50:5B2A6E,100:0A0414&height=100&section=footer" width="100%"/>
