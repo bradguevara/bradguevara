@@ -4,19 +4,28 @@
 
 **Software Engineer · CS Grad (May 2026) · Distributed Systems & Backend**
 
+[![Certificate](https://img.shields.io/badge/Certificate-Data%20Intensive%20Computing-5EEAD4?style=for-the-badge&logo=apachespark&logoColor=black)](#-education)
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bradrguevara@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bradguevara)
 [![Portfolio](https://img.shields.io/badge/Portfolio-C026D3?style=for-the-badge&logo=githubpages&logoColor=white)](https://bradguevara.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bradguevara)
+[![GitHub](https://img.shields.io/badge/GitHub-bradguevara-C026D3?style=for-the-badge&logo=github&logoColor=5EEAD4&labelColor=181717)](https://github.com/bradguevara)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/bguevarapinos/)
 
 </div>
 
 <p align="center">
 I build distributed systems and data pipelines — routing tables, failure detectors, and the infrastructure underneath them.<br>
-CS graduate from the University at Buffalo with a Certificate in Data Intensive Computing.<br>
+CS graduate from the University at Buffalo with a <strong>Certificate in Data Intensive Computing</strong>, focused on large-scale data processing with Apache Spark, Hadoop, and Google Cloud Dataproc.<br>
 I also practice DSA regularly on LeetCode, using NeetCode's roadmap to guide my study.
 </p>
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bradguevara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0414&title_color=C026D3&icon_color=5EEAD4&text_color=E8E0F5)](https://github.com/bradguevara)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bradguevara&theme=tokyonight&hide_border=true&background=0A0414&ring=C026D3&fire=C026D3&currStreakLabel=5EEAD4)](https://github.com/bradguevara)
+
+</div>
 
 ---
 
